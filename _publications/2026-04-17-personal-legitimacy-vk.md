@@ -1,7 +1,7 @@
 ---
 title: "Personal Legitimacy in the Structure of Public Perception of Power Among VK Users"
 collection: publications
-category: journal-articles
+category: manuscripts
 permalink: /publication/2026-04-17-personal-legitimacy-vk
 excerpt: 'This article explores the structure of personal legitimacy and public perceptions of political power among VK users.'
 date: 2026-04-17
