@@ -1,7 +1,7 @@
 ---
 title: "Digital delegitimization: Biden representations in the astroturfing discourse of the RuNet"
 collection: publications
-category: journal-articles
+category: manuscripts
 permalink: /publication/2025-12-26-digital-delegitimization
 excerpt: 'This article examines representations of Joe Biden within astroturfing discourse in the RuNet and explores mechanisms of digital delegitimization in online political communication.'
 date: 2025-12-26
