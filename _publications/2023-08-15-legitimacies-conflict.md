@@ -1,7 +1,7 @@
 ---
 title: "Legitimacies Conflict: The Evolution of Perceived Legitimacy in Modern Russia"
 collection: publications
-category: journal-articles
+category: manuscripts
 permalink: /publication/2023-08-15-legitimacies-conflict
 excerpt: 'This paper analyzes transformations of perceived legitimacy in contemporary Russia and the emergence of competing legitimacy frameworks.'
 date: 2023-08-15
