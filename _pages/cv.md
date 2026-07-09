@@ -11,35 +11,22 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* PhD in Political Science, L.N. Gumilyov Eurasian National University, 2021–2025
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2024–present: Associate Professor of Sociology and Political Science
+  * L.N. Gumilyov Eurasian National University (ENU), Astana, Kazakhstan
+  * Teaching and research in sociology and political science, with a focus on computational social science, digital media, political communication, and post-Soviet/Central Asian studies
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Computational methods
+  * NLP / embeddings
+  * Spatial econometrics
+  * Survival analysis
+  * Interrupted time-series analysis
+  * Web scraping
 
 Publications
 ======
@@ -58,7 +45,3 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
