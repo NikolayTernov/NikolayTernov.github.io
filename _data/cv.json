@@ -1,152 +1,128 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Nikolay Ternov",
+    "email": "ternovnm@yandex.ru",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://NikolayTernov.github.io",
+    "summary": "Associate Professor of Sociology and Political Science at L.N. Gumilyov Eurasian National University (ENU), Astana, Kazakhstan. Works in computational social science, digital media, political communication, urban sociology, and post-Soviet studies.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "Astana",
+      "countryCode": "KZ",
       "region": ""
     },
     "profiles": [
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com/citations?user=uu-rc8IAAAAJ&hl"
       },
       {
         "network": "ORCID",
         "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "url": "https://orcid.org/0000-0001-7422-5155"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "NikolayTernov",
+        "url": "https://github.com/NikolayTernov"
+      },
+      {
+        "network": "ResearchGate",
+        "username": "",
+        "url": "http://researchgate.net/profile/Ternov-Nikolay"
+      },
+      {
+        "network": "Scopus",
+        "username": "",
+        "url": "https://www.scopus.com/authid/detail.uri?authorId=57478339800"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "name": "L.N. Gumilyov Eurasian National University (ENU)",
+      "position": "Associate Professor of Sociology and Political Science",
+      "url": "",
+      "startDate": "TODO: year you started",
+      "endDate": "",
+      "summary": "Teaching and research in sociology and political science, with a focus on computational social science, digital media, political communication, and post-Soviet/Central Asian studies.",
+      "highlights": []
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
+      "institution": "TODO: institution where you earned your PhD",
+      "area": "TODO: field, e.g. Sociology",
+      "studyType": "PhD",
       "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "endDate": "TODO: year",
       "gpa": null,
       "courses": []
     }
   ],
-  "skills": [],
+  "skills": [
+    {
+      "name": "Computational methods",
+      "keywords": ["NLP / embeddings", "Spatial econometrics", "Survival analysis", "Interrupted time-series analysis", "Web scraping"]
+    }
+  ],
   "languages": [],
   "interests": [],
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Personal Legitimacy in the Structure of Public Perception of Power Among VK Users",
+      "publisher": "Changing Societies & Personalities",
+      "releaseDate": "2026-04-17",
+      "website": "https://doi.org/10.15826/csp.2026.10.1.371",
+      "summary": "Investigates how VK users perceive political legitimacy and authority in digital environments."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "Digital delegitimization: Biden representations in the astroturfing discourse of the RuNet",
+      "publisher": "Media, War & Conflict",
+      "releaseDate": "2025-12-26",
+      "website": "https://journals.sagepub.com/doi/10.1177/17506352251403052",
+      "summary": "Analyzes strategies of digital delegitimization in Russian-language online discourse, focusing on representations of Joe Biden in coordinated astroturfing environments."
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+      "name": "TODO: exact title (Telegram channels / January 2022 protests)",
+      "publisher": "Global Perspectives",
+      "releaseDate": "2024-01-01",
+      "website": "TODO: DOI link",
+      "summary": "Examines Telegram channels and political communication during the January 2022 protests in Kazakhstan."
     },
     {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Legitimacies Conflict: The Evolution of Perceived Legitimacy in Modern Russia",
+      "publisher": "Russian Politics",
+      "releaseDate": "2023-08-15",
+      "website": "",
+      "summary": "Explores the evolution of legitimacy narratives in modern Russia and conflicts between institutional and public perceptions of political legitimacy."
+    },
+    {
+      "name": "Emigration to the internet: \"Samizdat\" and the genesis of contemporary Russian nationalism",
+      "publisher": "Internet Histories",
+      "releaseDate": "2023-04-03",
+      "website": "",
+      "summary": "Analyzes the historical and ideological role of online samizdat communities in shaping contemporary Russian nationalist discourse."
+    },
+    {
+      "name": "Nationalism and Siberian archeology of the 19th century",
+      "publisher": "Journal of Eurasian Studies",
+      "releaseDate": "2022-01-01",
+      "website": "",
+      "summary": "Examines the relationship between nationalism, regional identity formation, and archeological discourse in 19th-century Siberia."
+    },
+    {
+      "name": "TODO: exact title of the Nova Science monograph",
+      "publisher": "Nova Science Publishers",
+      "releaseDate": "2024-01-01",
+      "website": "TODO: link",
+      "summary": "Scopus-indexed monograph."
     }
   ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
-  ]
+  "presentations": [],
+  "teaching": [],
+  "portfolio": []
 }
