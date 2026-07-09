@@ -45,7 +45,7 @@
       "name": "L.N. Gumilyov Eurasian National University (ENU)",
       "position": "Associate Professor of Sociology and Political Science",
       "url": "",
-      "startDate": "TODO: year you started",
+      "startDate": "2024",
       "endDate": "",
       "summary": "Teaching and research in sociology and political science, with a focus on computational social science, digital media, political communication, and post-Soviet/Central Asian studies.",
       "highlights": []
@@ -53,11 +53,11 @@
   ],
   "education": [
     {
-      "institution": "TODO: institution where you earned your PhD",
-      "area": "TODO: field, e.g. Sociology",
+      "institution": "L.N. Gumilyov Eurasian National University",
+      "area": "Political Science",
       "studyType": "PhD",
-      "startDate": "",
-      "endDate": "TODO: year",
+      "startDate": "2021",
+      "endDate": "2025",
       "gpa": null,
       "courses": []
     }
@@ -87,10 +87,10 @@
       "summary": "Analyzes strategies of digital delegitimization in Russian-language online discourse, focusing on representations of Joe Biden in coordinated astroturfing environments."
     },
     {
-      "name": "TODO: exact title (Telegram channels / January 2022 protests)",
+      "name": "The sociopolitical January 2022 protests in Kazakhstan’s Telegram channels: Agenda interception)",
       "publisher": "Global Perspectives",
       "releaseDate": "2024-01-01",
-      "website": "TODO: DOI link",
+      "website": "https://doi.org/10.1525/gp.2024.120497",
       "summary": "Examines Telegram channels and political communication during the January 2022 protests in Kazakhstan."
     },
     {
@@ -118,7 +118,7 @@
       "name": "TODO: exact title of the Nova Science monograph",
       "publisher": "Nova Science Publishers",
       "releaseDate": "2024-01-01",
-      "website": "TODO: link",
+      "website": "https://novapublishers.com/shop/nationalism-past-present-and-future/",
       "summary": "Scopus-indexed monograph."
     }
   ],
