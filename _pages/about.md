@@ -29,23 +29,19 @@ Full list on the [Publications](/publications/) page.
 Currently working on
 ======
 - Large language models and international conflicts
-- QamQor: spatial analysis of the criminal justice system in Kazakhstan
+- QamQor: spatial analysis of criminal justice data in Kazakhstan — how law enforcement practices are distributed across territories and how they relate to local socioeconomic context (segmented regression, LISA spatial clustering)
 
 Education
 ======
 - **PhD in Political Science**, L.N. Gumilyov Eurasian National University, 2021–2025
-- **Master's in Sociology**, Novosibirsk State Technical University
+- **Master's in Sociology**, Novosibirsk State Technical University, 2019–2021
 - **BA in International Relations**, Siberian Institute of Management (RANEPA), 2015–2019
 
 Grants and awards
 ======
 - Grant of the Governor of Novosibirsk Oblast
 - Bologna Process scholarship (Kazakhstan)
-- Research project *Конфликт легитимностей: идеология, структура и личность в представлении российских граждан* (Conflict of legitimacies: ideology, structure, and personality in the perceptions of Russian citizens)
-
-Service
-======
-- Peer reviewer for academic journals
+- Russian Science Foundation (RSF) grant: *Конфликт легитимностей: идеология, структура и личность в представлении российских граждан* (Conflict of legitimacies: ideology, structure, and personality in the perceptions of Russian citizens)
 
 Get in touch
 ======
