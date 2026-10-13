@@ -6,9 +6,6 @@ permalink: /publication/2022-01-01-nationalism-and-siberian-archeology
 excerpt: 'This article explores connections between nationalism and archeological scholarship in nineteenth-century Siberia.'
 date: 2022-01-01
 venue: 'Journal of Eurasian Studies'
-paperurl: ''
-slidesurl: ''
-bibtexurl: ''
 citation: 'Ternov, N., &amp; Mikhailov, D. (2022). &quot;Nationalism and Siberian archeology of the 19th century.&quot; <i>Journal of Eurasian Studies</i>, 13(1), 56–65.'
 ---
 
