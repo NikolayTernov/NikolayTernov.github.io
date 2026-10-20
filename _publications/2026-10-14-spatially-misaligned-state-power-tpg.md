@@ -3,7 +3,7 @@ title: "Spatially misaligned state power: administrative trajectories and regime
 collection: publications
 category: manuscripts
 permalink: /publication/2026-spatially-misaligned-state-power-tpg
-excerpt: 'Tests whether two administrative classifications in Kazakhstan\'s policing system, missing-person and wanted-person records (Qamqor portal, 1995–2025), are spatially interchangeable.'
+excerpt: 'Tests whether two administrative classifications in Kazakhstan''s policing system, missing-person and wanted-person records (Qamqor portal, 1995–2025), are spatially interchangeable.'
 date: 2026-10-14
 venue: 'Territory, Politics, Governance'
 paperurl: 'https://doi.org/10.1080/21622671.2026.2740761'
