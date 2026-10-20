@@ -16,10 +16,12 @@ My research spans several connected threads:
 - **Urban sociology** — spatial diffusion, territorial stigmatization, and access to urban goods and services (housing, healthcare, retail), using large-scale geocoded and marketplace data from Kazakhstani cities.
 - **Post-Soviet institutional and political sociology** — bureaucratic practice, state power, and everyday life in Central Asia and Russia, informed by theoretical traditions including Bourdieu, Lipsky, and Illouz.
 
-My published work includes studies in *Russian Politics*, *Journal of Eurasian Studies*, *Global Perspectives*, *Media, War & Conflict*, *GeoJournal*, and a chapter in a Nova Science edited volume, alongside ongoing projects on state-society relations, digital platforms, and computational approaches to social and political phenomena in Kazakhstan and beyond.
+My published work includes studies in *Russian Politics*, *Journal of Eurasian Studies*, *Global Perspectives*, *Media, War & Conflict*, *GeoJournal*, *Territory, Politics, Governance*, *Journalism & Mass Communication Quarterly*, and a chapter in a Nova Science edited volume, alongside ongoing projects on state-society relations, digital platforms, and computational approaches to social and political phenomena in Kazakhstan and beyond.
 
 Selected works
 ======
+- **Spatially misaligned state power: administrative trajectories and regimes of policing**, *Territory, Politics, Governance* (2026), with K. Mukhambetova. [DOI](https://doi.org/10.1080/21622671.2026.2740761)
+- **What Makes Child Harm Newsworthy? Event Characteristics, Victim Characteristics, and Media Attention**, *Journalism & Mass Communication Quarterly* (2026), with K. Mukhambetova and Z. Abetova. [DOI](https://doi.org/10.1177/10776990261490389)
 - **Digital delegitimization: Biden representations in the astroturfing discourse of the RuNet**, *Media, War & Conflict* (2025). [DOI](https://doi.org/10.1177/17506352251403052)
 - **Urban friction and the spatial structure of conflict: a multi-scalar analysis of Astana**, *GeoJournal* (2026), with D. Mikhailov and Z. Otto. [DOI](https://doi.org/10.1007/s10708-026-11662-z)
 - **Legitimacies Conflict: The Evolution of Perceived Legitimacy in Modern Russia**, *Russian Politics* (2023). [Details](/publication/2023-08-15-legitimacies-conflict)
